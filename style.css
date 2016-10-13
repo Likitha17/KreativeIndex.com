@@ -157,11 +157,10 @@ body{
  @media all and (max-width: 627px) { 
 
 .content2{
-	text-align: center;
-    color: #fff;
-    padding-top: 20px;
-    font-size: 15px;
-    text-transform: capitalize;
+	
+    padding-top: 10px;
+    font-size: 10px;
+  
 }
 
 }
