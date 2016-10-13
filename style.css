@@ -36,7 +36,7 @@ body{
 	text-align: center;
     color: #fff;
     padding-top: 50px;
-    font-size: 27px;
+    font-size: 25px;
     text-transform: capitalize;
 }
 @media only screen and (min-device-width: 360px) and (max-device-width: 640px){ 
