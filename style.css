@@ -40,69 +40,46 @@ body{
     text-transform: capitalize;
 }
 @media only screen and (min-device-width: 360px) and (max-device-width: 640px){ 
-    #back{
-
-    background-image: url("Image/home-169540.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    height: 100%;
-    width: 100%
-}
+ 
     .heading{
            padding-top: 50px;
-          text-align: center;
+         
             font-size: 30px;
-            color: #fff;
-            font-family: serif;
-            text-transform: capitalize;
-            font-family: 'Trajan Pro', sans-serif;
+            
     }
     .content{
-
-    text-align: center;
-    color: #fff;
-   
     font-size: 20px;
-    text-transform: capitalize;
+   
     }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px){ 
     .heading{
            padding-top: 30px;
-          text-align: center;
+         
             font-size: 20px;
-            color: #fff;
-            font-family: serif;
-            text-transform: capitalize;
-            font-family: 'Trajan Pro', sans-serif;
+            
+           
     }
     .content{
 
-    text-align: center;
-    color: #fff;
    
     font-size: 20px;
-    text-transform: capitalize;
+   
     }
  }
  @media only screen and (min-device-width: 375px) and (max-device-width: 667px){ 
     .heading{
            padding-top: 120px;
-          text-align: center;
+         
             font-size: 30px;
-            color: #fff;
-            font-family: serif;
-            text-transform: capitalize;
-            font-family: 'Trajan Pro', sans-serif;
+          
     }
     .content{
 
-    text-align: center;
-    color: #fff;
+   
    
     font-size: 25px;
-    text-transform: capitalize;
+   
     }
 }
 
@@ -110,39 +87,31 @@ body{
  @media only screen and (min-device-width: 360px) and (max-device-width: 640px){ 
     .heading{
            padding-top: 80px;
-          text-align: center;
+
             font-size: 25px;
-            color: #fff;
-            font-family: serif;
-            text-transform: capitalize;
-            font-family: 'Trajan Pro', sans-serif;
+           
     }
     .content{
 
-    text-align: center;
-    color: #fff;
+   
    
     font-size: 25px;
-    text-transform: capitalize;
+    
     }
 }
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px){ 
     .heading{
            padding-top: 120px;
-          text-align: center;
+         
             font-size: 25px;
-            color: #fff;
-            font-family: serif;
-            text-transform: capitalize;
-            font-family: 'Trajan Pro', sans-serif;
+            
     }
     .content{
 
-    text-align: center;
-    color: #fff;
+   
    
     font-size: 25px;
-    text-transform: capitalize;
+   
     }
 }
 @media only screen and (min-device-width: 950px) {
