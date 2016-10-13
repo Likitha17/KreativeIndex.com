@@ -178,3 +178,12 @@ body{
 }
 
 }
+@media all and (max-width: 648px) { 
+
+.content2{
+	
+    padding-top: 10px;
+    font-size:20px;
+  
+}
+}
