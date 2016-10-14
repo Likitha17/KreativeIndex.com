@@ -47,11 +47,11 @@ body{
     text-transform: capitalize;
 }
 .content2{
-	text-align: center;
+    text-align: center;
     color: #fff;
     padding-top: 20px;
     font-size: 25px;
-    text-transform: capitalize;
+   
 }
 @media only screen and (min-device-width: 360px) and (max-device-width: 640px){ 
  
